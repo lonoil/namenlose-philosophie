@@ -19,14 +19,6 @@ export default ((opts?: Options) => {
           <a href="https://www.paramsfreunde.de/freunde/david">David</a> von
           <a href="https://www.paramsfreunde.de">Params Freunden</a>.
         </p>
-
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
       </footer>
     )
   }

@@ -14,7 +14,11 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
-        <p>Namenlose Philosophie ist ein Projekt von</p>
+        <p>
+          Namenlose Philosophie ist ein Projekt von{" "}
+          <a href="www.paramsfreunde.de">Params Freunden</a>.
+        </p>
+
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

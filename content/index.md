@@ -4,5 +4,3 @@ showreadingtime: "false"
 ---
 
 Herzlich willkommen zur Namenlosen Philosophie!
-
-dddd

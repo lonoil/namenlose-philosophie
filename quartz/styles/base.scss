@@ -11,6 +11,15 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Calibri";
+  src:
+    url("../public/fonts/calibri-webfont.woff2") format("woff2"),
+    url("../public/fonts/calibri-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
 html {
   scroll-behavior: smooth;
   text-size-adjust: none;
@@ -73,7 +82,7 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: rgba(0, 0, 0, 0.54) !important;
+    color: #d8b489 !important;
   }
 
   &.internal {

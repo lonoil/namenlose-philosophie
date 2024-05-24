@@ -48,6 +48,16 @@ button#explorer {
   max-height: none;
   transition: max-height 0.35s ease;
   margin-top: 0.5rem;
+  .shadow-sm {
+    --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000),
+      var(--tw-shadow);
+  }
+  .bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  }
 
   &.collapsed > .overflow::after {
     opacity: 0;

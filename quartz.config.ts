@@ -19,10 +19,10 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "local",
       cdnCaching: true,
       typography: {
-        header: "Playfair Display",
+        header: "Warnock Pro",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },

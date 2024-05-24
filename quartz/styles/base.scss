@@ -222,9 +222,12 @@ a {
     }
   }
 
+  & .center {
+    background-color: black;
+  }
+
   & .center,
   & footer {
-    background-color: black;
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;

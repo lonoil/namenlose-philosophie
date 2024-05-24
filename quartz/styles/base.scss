@@ -222,6 +222,10 @@ a {
     }
   }
 
+  &.center {
+    background-color: black;
+  }
+
   & .center,
   & footer {
     margin-left: auto;

@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Namenlose Philosophie",
+    pageTitle: "NAMENLOSE PHILOSOPHIE",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -28,8 +28,8 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "##F8F4EE",
-          lightgray: "#e5e5e5",
+          light: "#F8F4EE",
+          lightgray: "#FAFAFA",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",

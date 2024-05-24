@@ -82,7 +82,7 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: #d8b489 !important;
+    color: var(--tertiary) !important;
   }
 
   &.internal {

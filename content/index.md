@@ -1,3 +1,3 @@
 ---
-title: Willkommen zur Namenlosen Philosophie
+title: Namenlose Philosophie
 ---

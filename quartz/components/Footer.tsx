@@ -13,11 +13,11 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <hr />
+        {/* <hr />
         <p>
           Die Namenlose Philosophie ist ein Projekt von{" "}
           <a href="https://www.paramsfreunde.de">Params Freunden</a>.
-        </p>
+        </p> */}
       </footer>
     )
   }

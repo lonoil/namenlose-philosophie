@@ -2,7 +2,7 @@
 
 button#explorer {
   all: unset;
-  background-color: transparent;
+  background-color: white;
   border: none;
   text-align: left;
   cursor: pointer;
@@ -48,8 +48,6 @@ button#explorer {
   max-height: none;
   transition: max-height 0.35s ease;
   margin-top: 0.5rem;
-
-  background-color: white;
 
   &.collapsed > .overflow::after {
     opacity: 0;

@@ -76,7 +76,8 @@ strong {
 }
 
 a {
-  font-weight: $semiBoldWeight;
+  // font-weight: $semiBoldWeight;
+  font-weight: normal;
   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);

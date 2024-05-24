@@ -87,7 +87,8 @@ svg {
     color: var(--secondary);
     font-family: var(--headerFont);
     font-size: 0.95rem;
-    font-weight: $semiBoldWeight;
+    // font-weight: $semiBoldWeight;
+    font-weight: normal;
     line-height: 1.5rem;
     display: inline-block;
   }

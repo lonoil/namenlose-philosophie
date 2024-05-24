@@ -16,7 +16,6 @@ export default ((opts?: Options) => {
         <hr />
         <p>
           Die Namenlose Philosophie ist ein Projekt von{" "}
-          <a href="https://www.paramsfreunde.de/freunde/david">David</a> von
           <a href="https://www.paramsfreunde.de">Params Freunden</a>.
         </p>
       </footer>

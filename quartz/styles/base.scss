@@ -93,6 +93,10 @@ a {
     line-height: 1.4rem;
     color: #c79457;
 
+    &:hover {
+      color: #d8b489;
+    }
+
     &:has(> img) {
       background-color: none;
       border-radius: 0;

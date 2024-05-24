@@ -15,8 +15,8 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          Namenlose Philosophie ist ein Projekt von{" "}
-          <a href="www.paramsfreunde.de">Params Freunden</a>.
+          Die Namenlose Philosophie ist ein Projekt von{" "}
+          <a href="https://www.paramsfreunde.de">Params Freunden</a>.
         </p>
 
         <ul>

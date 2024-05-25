@@ -3,8 +3,12 @@ title: Bottom-up
 ---
 
 %%
-# Bottom-up 
+
+# Bottom-up
+
 %%
+
+ddd
 
 Das **Bottom-up** ist eine _Richtung, aus der Gedanken kommen_. Es bedeutet, _erst_ zu schauen, "was da ist", und _danach_ die Begriffe zu bilden. Im Gegensatz dazu steht das [[Top-down]], bei dem erst die Begriffe festgesetzt und danach der Inhalt geformt wird.
 

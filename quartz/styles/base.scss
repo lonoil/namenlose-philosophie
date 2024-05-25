@@ -224,6 +224,9 @@ a {
 
   & .center,
   & footer {
+    background-color: #ffffff;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    padding: 16px;
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
@@ -235,9 +238,6 @@ a {
   }
 
   & .content-border {
-    background-color: #ffffff;
-    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
-    padding: 16px;
   }
 }
 

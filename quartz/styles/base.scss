@@ -215,8 +215,7 @@ a {
 
   & .page-header {
     width: $pageWidth;
-    // margin: $topSpacing auto 0 auto;
-    padding-top: 6rem;
+    margin: $topSpacing auto 0 auto;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
       margin-top: 2rem;

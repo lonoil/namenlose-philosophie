@@ -215,15 +215,11 @@ a {
 
   & .page-header {
     width: $pageWidth;
-    margin: $topSpacing auto 0 auto;
+    // margin: $topSpacing auto 0 auto;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
       margin-top: 2rem;
     }
-  }
-
-  & .center {
-    margin-top: 6rem;
   }
 
   & .center,
@@ -239,6 +235,7 @@ a {
       margin-left: 0;
       margin-right: 0;
     }
+    margin-top: 6rem;
   }
 }
 

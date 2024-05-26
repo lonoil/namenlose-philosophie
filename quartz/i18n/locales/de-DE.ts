@@ -65,7 +65,8 @@ export default {
     },
     error: {
       title: "Nicht gefunden",
-      notFound: "Diese Seite ist entweder nicht öffentlich oder existiert nicht.",
+      notFound:
+        "Dieser Artikel befindet sich noch in der Entwurfs-Phase und wurde noch nicht veröffentlicht.",
       home: "Zurück zur Homepage",
     },
     folderContent: {

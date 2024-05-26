@@ -1,6 +1,6 @@
 ---
 title: Namenlose Philosophie
-showReadingTime: false
+# showReadingTime: false
 ---
 
 Herzlich willkommen zur Namenlosen Philosophie!

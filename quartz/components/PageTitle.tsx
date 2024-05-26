@@ -8,7 +8,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   return (
     <h1 class={classNames(displayClass, "page-title")}>
-      <a style="hyphens: none;" href={baseDir}>
+      <a style="-webkit-hyphens:manual; -moz-hyphens:manual; hyphens:manual;" href={baseDir}>
         {title}
       </a>
     </h1>

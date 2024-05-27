@@ -17,7 +17,7 @@ Im **Bottom-up** liegt ein Element der Nichtsprachlichkeit: Indem nur [[Beobacht
 
 ---
 
-### Verwandt
+## Verwandt
 
 - [[Denken]]
 - [[Beobachtung]]

@@ -1,5 +1,6 @@
 ---
 title: Bottom-up
+type: Begriff
 ---
 
 %%
@@ -17,3 +18,5 @@ Im **Bottom-up** liegt ein Element der Nichtsprachlichkeit: Indem nur [[Beobacht
 ---
 
 **Verwandt:**
+- [[Denken]]
+- [[Beobachtung]]

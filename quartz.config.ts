@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "local",
       cdnCaching: true,
       typography: {
-        header: "warnock-pro",
-        body: "calibri",
+        header: "Warnock Pro",
+        body: "Calibri",
         code: "IBM Plex Mono",
       },
       colors: {

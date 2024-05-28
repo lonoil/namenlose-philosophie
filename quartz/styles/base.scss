@@ -3,21 +3,59 @@
 @use "./callouts.scss";
 
 @font-face {
-  font-family: "warnock-pro";
+  font-family: "Warnock Pro";
+  src: url("public/fonts/WarnockPro-Regular.eot");
   src:
-    url("../public/fonts/warnock_pro-webfont.woff2") format("woff2"),
-    url("../public/fonts/warnock_pro-webfont.woff") format("woff");
+    url("public/fonts/WarnockPro-Regular.eot?#iefix") format("embedded-opentype"),
+    url("public/fonts/WarnockPro-Regular.woff2") format("woff2"),
+    url("public/fonts/WarnockPro-Regular.woff") format("woff"),
+    url("public/fonts/WarnockPro-Regular.ttf") format("truetype"),
+    url("public/fonts/WarnockPro-Regular.svg#WarnockPro-Regular") format("svg");
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: "calibri";
+  font-family: "Calibri";
+  src: url("public/fonts/Calibri.eot");
   src:
-    url("../public/fonts/calibri-webfont.woff2") format("woff2"),
-    url("../public/fonts/calibri-webfont.woff") format("woff");
+    url("public/fonts/Calibri.eot?#iefix") format("embedded-opentype"),
+    url("public/fonts/Calibri.woff2") format("woff2"),
+    url("public/fonts/Calibri.woff") format("woff"),
+    url("public/fonts/Calibri.ttf") format("truetype"),
+    url("public/fonts/Calibri.svg#Calibri") format("svg");
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Calibri";
+  src: url("public/fonts/Calibri-Bold.eot");
+  src:
+    url("public/fonts/Calibri-Bold.eot?#iefix") format("embedded-opentype"),
+    url("public/fonts/Calibri-Bold.woff2") format("woff2"),
+    url("public/fonts/Calibri-Bold.woff") format("woff"),
+    url("public/fonts/Calibri-Bold.ttf") format("truetype"),
+    url("public/fonts/Calibri-Bold.svg#Calibri-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Calibri";
+  src: url("public/fonts/Calibri-Light.eot");
+  src:
+    url("public/fonts/Calibri-Light.eot?#iefix") format("embedded-opentype"),
+    url("public/fonts/Calibri-Light.woff2") format("woff2"),
+    url("public/fonts/Calibri-Light.woff") format("woff"),
+    url("public/fonts/Calibri-Light.ttf") format("truetype"),
+    url("public/fonts/Calibri-Light.svg#Calibri-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
 }
 
 html {

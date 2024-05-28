@@ -16,13 +16,13 @@ const config: QuartzConfig = {
     },
     locale: "de-DE",
     baseUrl: "https://www.namenlose-philosophie.de",
-    ignorePatterns: ["private", "templates", ".obsidian", "Ressourcen"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "local",
       cdnCaching: true,
       typography: {
-        header: "Calibri",
+        header: "Warnock Pro",
         body: "Calibri",
         code: "IBM Plex Mono",
       },

@@ -3,6 +3,8 @@ title: Magie der fehlenden Mittel
 draft: false
 ---
 
+# Magie der fehlenden Mittel
+
 Wir haben heute viele Möglichkeiten, uns bei unserer Arbeit zu unterstützen. Mein Schreibprogramm [Papyrus](https://www.papyrus.de/) kommt beispielsweise mit vielen Funktionen: einem Zeitstrahl, einem Charakterverzeichnis, einer Lesbarkeitsprüfung usw. 
 
 So viele Mittel an der Hand zu haben, verführt dazu, sie auch alle zu benutzen. Wenn man diesen Anspruch entwickelt, dann kostet es Zeit, sich in die Möglichkeiten einzuarbeiten und etwaige Daten in die entsprechenden Formate zu bringen. Das ist auch gar nicht immer unbedingt hilfreich: Ich habe diese Tools ja nicht selbst geschaffen - ich nutze sie nur, weil sie da sind. Ich habe mir nie die Frage gestellt, ob ich sie brauche.

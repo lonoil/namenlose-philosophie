@@ -1,5 +1,0 @@
-- Boden wischen
-- Elektriker anrufen
-- Zeug in Keller
-- Wäsche abnehmen, neue waschen
-- Streichen

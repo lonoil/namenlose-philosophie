@@ -219,7 +219,7 @@ export function renderPage(
           <Body {...componentData}>
             {LeftComponent}
             <div class="center">
-              {/* <div class="page-header">
+              <div class="page-header">
                 <Header {...componentData}>
                   {header.map((HeaderComponent) => (
                     <HeaderComponent {...componentData} />
@@ -230,7 +230,7 @@ export function renderPage(
                     <BodyComponent {...componentData} />
                   ))}
                 </div>
-              </div> */}
+              </div>
               <Content {...componentData} />
             </div>
             {RightComponent}

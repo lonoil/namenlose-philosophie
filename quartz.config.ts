@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "warnock-pro",
-        body: "Calibri",
+        body: "calibri",
         code: "IBM Plex Mono",
       },
       colors: {

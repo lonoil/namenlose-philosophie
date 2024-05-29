@@ -3,6 +3,7 @@ title: Verantwortung
 draft: true
 ---
 
-# Verantwortung
+> [!info]
+> Die **Verantwortung** ist Teil der [[Erweiterte Namenlose Philosophie|Erweiterte Namenlose Philosophie]].
 
-Die **Verantwortung** ist Teil der [[Erweiterte Namenlose Philosophie|Erweiterte Namenlose Philosophie]].
+# Verantwortung

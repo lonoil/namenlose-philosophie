@@ -1,6 +1,6 @@
 ---
 title: Magie der fehlenden Mittel
-draft: false
+draft: true
 ---
 
 # Magie der fehlenden Mittel

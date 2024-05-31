@@ -2,7 +2,7 @@ export const CommonArgv = {
   directory: {
     string: true,
     alias: ["d"],
-    default: "Test",
+    default: "Namenlose Philosophie",
     describe: "directory to look for content files",
   },
   verbose: {

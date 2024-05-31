@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "de-DE",
     baseUrl: "https://www.namenlose-philosophie.de",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Ressourcen", ".trash"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "local",

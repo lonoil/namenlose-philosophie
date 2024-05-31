@@ -1,1 +1,0 @@
-<%-tp.file.move("/Museum/" + tp.file.title)%>
